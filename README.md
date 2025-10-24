@@ -1,67 +1,66 @@
-# 👋 Alejandro Martínez
+# 👋 Hi, I'm Alejandro Martínez
 
-**Software Developer | Mobile & Web Engineer | SaaS Contractor**  
-📍 Based in Colombia | 🌐 [amm-portfolio.vercel.app](https://amm-portfolio.vercel.app)
+🚀 **Software Developer | Mobile & Web Engineer | AI & Cloud Enthusiast**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amm-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmalejandro5/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alejomm20215)
+Welcome to my GitHub! I build high-performance, scalable applications that merge clean design, solid architecture, and smart technology. Passionate about **AI**, **mobile systems**, and **backend scalability**.
 
----
-
-### 💡 About Me
-I’m a focused **Software Engineer** specializing in **mobile and web development**.  
-I build **scalable, high-performance, and well-designed applications**, prioritizing clean architecture and production readiness.
+🌐 **Portfolio:** [amm-portfolio.vercel.app](https://amm-portfolio.vercel.app/)  
+💼 **LinkedIn:** [linkedin.com/in/mmalejandro5](https://www.linkedin.com/in/mmalejandro5/)
 
 ---
 
-### ⚙️ Technical Stack
+## 🧠 Tech Stack
 
-#### 🧩 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)
+### **🖥️ Web Development**
+- **Frontend:** React, Next.js, Tailwind CSS, TypeScript  
+- **Backend:** Node.js, Express, NestJS, Django, Flask  
+- **Database:** PostgreSQL, MongoDB, Firebase, Redis  
+- **Cloud & DevOps:** Docker, Kubernetes, AWS, GCP, Vercel, Cloud Run  
 
-#### 🖥️ Web & Backend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+### **📱 Mobile Development**
+- **Frameworks:** Flutter, React Native, Kotlin Multiplatform (KMP)  
+- **Architecture:** Clean Architecture, MVVM, Provider / Riverpod / Bloc  
+- **Integrations:** Supabase, Firebase, REST & GraphQL APIs  
 
-#### ☁️ Infrastructure & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![RevenueCat](https://img.shields.io/badge/RevenueCat-FF6B81?style=flat-square&logo=cat&logoColor=white)
+### **⚙️ AI & Systems**
+- Python (TensorFlow, PyTorch, scikit-learn)  
+- Local inference using **Ollama**, DeepSeek & Llama models  
+- System design, CI/CD, automation & scalability  
 
 ---
 
-### 🚀 Current Focus
-- Building modular mobile apps with clean architectures.  
-- Integrating AI automation and local LLM workflows for product features.  
-- Expanding skillset into product strategy, sales for tech offerings, and high-impact consulting.
+## 🧩 Featured Projects
+
+### 🔹 **AI Hacking Toolkit**
+> A modular CLI tool for local AI-powered password analysis and recovery.  
+- Local LLMs via DeepSeek + Ollama  
+- Custom encryption/decryption workflows  
+- CI/CD pipelines integrated  
+
+### 🔹 **Gym CRM**
+> A management system for gyms with client tracking, billing, and performance analytics.  
+- Built with **Flutter Web + Firebase + Node.js**  
+- Subscription logic & analytics dashboard  
+
+### 🔹 **Barber CRM**
+> CRM app for barbershops with booking management and personalized client profiles.  
+- Multi-user support, custom API, and clean UI  
 
 ---
 
-### 🌐 Portfolio
-Explore live projects and case studies:  
-👉 **[amm-portfolio.vercel.app](https://amm-portfolio.vercel.app)**
+## 🧰 Tools I Use Daily
+- **IDEs:** VS Code, Android Studio, PyCharm  
+- **Version Control:** Git, GitHub Actions  
+- **Project Management:** Notion, Linear, Trello  
+- **Terminal:** zsh + Oh My Zsh  
 
 ---
 
-### 📫 Contact
-📧 **am5326996@gmail.com**  
-💼 **[LinkedIn](https://www.linkedin.com/in/mmalejandro5/)**  
-💻 **[GitHub](https://github.com/Alejomm20215)**
+## 📫 Contact Me
+- 🌍 **Portfolio:** [amm-portfolio.vercel.app](https://amm-portfolio.vercel.app/)  
+- 💼 **LinkedIn:** [linkedin.com/in/mmalejandro5](https://www.linkedin.com/in/mmalejandro5/)  
+- 📧 **Email:** available on request  
 
 ---
 
-### ⚡ Personal Notes
-- Daily gym training (1h 30m); weekly swimming (1h 30m).  
-- 4 years of cold showers — discipline equals focus.  
-- Currently improving sales, leadership, and AI systems design to scale tech businesses.
-
-> “Elegance in code reflects discipline in thought.”  
-> — Alejandro Martínez
+⭐ *Always building. Always learning.*

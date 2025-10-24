@@ -57,13 +57,7 @@ I build **scalable, high-performance, and well-designed applications**, prioriti
 
 ---
 
-### 🌐 Portfolio
-Explore live projects and case studies:  
-👉 **[amm-portfolio.vercel.app](https://amm-portfolio.vercel.app)**
-
----
-
 ### 📫 Contact
 📧 **am5326996@gmail.com**  
 💼 **[LinkedIn](https://www.linkedin.com/in/mmalejandro5/)**  
-💻 **[GitHub](https://github.com/Alejomm20215)**
+

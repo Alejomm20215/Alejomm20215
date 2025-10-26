@@ -1,7 +1,6 @@
 # 👋 Alejandro Martínez
 
-**Software Developer | Mobile & Web Engineer | SaaS Contractor**  
-📍 Based in Colombia
+**Software Developer | Mobile & Web Engineer | SaaS Contractor**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amm-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmalejandro5/)
@@ -59,6 +58,7 @@ I build **scalable, high-performance, and well-designed applications**, prioriti
 ### 📫 Contact
 📧 **am5326996@gmail.com**  
 💼 **[LinkedIn](https://www.linkedin.com/in/mmalejandro5/)**  
+
 
 
 
